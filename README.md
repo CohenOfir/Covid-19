@@ -12,6 +12,8 @@ Disease spread simuation.
 ```bash
 java -jar Covid-19.jar
 ```
-After compilation, follow User Input Instructions.
+2. After compilation, follow User Input Instructions.
+
+3. Enjoy GUI Simulation!
 
 

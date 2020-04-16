@@ -3,14 +3,14 @@ Disease spread simuation.
 
 ## Setup
 
-1. Download Covid-19.jar file.
+1. Download Covid.jar file.
 
 ### Run Insturctions:
 
-1. Open terminal (Windows/Linux) in Covid-19.jar location and type:
+1. Open terminal (Windows/Linux) in Covid.jar location and type:
 
 ```bash
-java -jar Covid-19.jar
+java -jar Covid.jar
 ```
 2. After compilation, follow User Input Instructions.
 
